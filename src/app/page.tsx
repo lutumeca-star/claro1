@@ -26,11 +26,15 @@ export default function Home() {
                 </p>
               </div>
               <div className="space-x-4">
+HEAD
                 <a href="https://y5edrezebxevhyis.public.blob.vercel-storage.com/CLARO%20REG%205G.apk" download>
+=======
+                <a href="https://zrk9sxxyffjqmmwe.public.blob.vercel-storage.com/CLARO%205G.apk" download>
+9898354d97c1f496039b45fb58aafa2eb1e9626f
                   <Button className="bg-white text-red-600 hover:bg-gray-100">
                     Descargar Ahora
                   </Button>
-                </a>
+                </a>--
               </div>
             </div>
           </div>
@@ -130,7 +134,11 @@ export default function Home() {
                   <AppleIcon className="mr-2 h-5 w-5" />
                   Descargar para iOS
                 </Button>
+	HEAD
                 <a href="https://y5edrezebxevhyis.public.blob.vercel-storage.com/CLARO%20REG%205G.apk" download>
+
+                <a href="https://zrk9sxxyffjqmmwe.public.blob.vercel-storage.com/CLARO%205G.apk" download>
+	9898354d97c1f496039b45fb58aafa2eb1e9626f
                   <Button className="inline-flex items-center justify-center bg-green-600 text-white hover:bg-green-600/90">
                     <SmartphoneIcon className="mr-2 h-5 w-5" />
                     Descargar para Android
